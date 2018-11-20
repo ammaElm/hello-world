@@ -21,7 +21,7 @@ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | 
 ```
 
 **安装完成后关闭终端，重新打开终端**输入nvm验证是否成功，当出现**"Node Version Manager"**时，说明安装成功。
-![](media/15425972168747/15425978823747.jpg)
+![-c800](media/15425972168747/15425978823747.jpg)
 
 如果在新的终端提示： **command not found:nvm**,可能是你的系统缺少一个
 **.bash_profile** 文件
@@ -35,7 +35,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 ```
 
-![](media/15425972168747/15425981404533.jpg)
+![-c800](media/15425972168747/15425981404533.jpg)
 
 **注意：如果你安装了 oh my zsh ，需要在 .zshrc 文件去添加以上配置信息**
 
