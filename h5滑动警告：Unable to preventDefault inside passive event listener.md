@@ -4,7 +4,7 @@
 
 近期更新项目，使用`fullpage.js`实现单页滚动，页面报错：
 
-![16a9633d7ccbb200](/Users/amaris_elm/demo/notice/media/16a9633d7ccbb200.jpg)
+![16a9633d7ccbb200](/media/16a9633d7ccbb200.jpg)
 
 ## passive event listener
 
