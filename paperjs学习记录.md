@@ -179,9 +179,9 @@ myCircle.selected = true;
 myCircle.removeSegment(0);
 ```
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509171048841.png" style="width:200px">
+<img src="/media/image-20190509171048841.png" style="width:200px">
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509171115374.png" style="width:200px">
+<img src="/media/image-20190509171115374.png" style="width:200px">
 
 要从项目中完全删除项目，我们使用`item.remove（）`
 
@@ -202,7 +202,7 @@ decagon.fillColor = '#e9e9ff';
 decagon.selected = true;
 ```
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509172543621.png" style="width:300px">
+<img src="/media/image-20190509172543621.png" style="width:300px">
 
 ### 平滑，简化和展平
 
@@ -233,7 +233,7 @@ copy.position.x += 150;
 copy.flatten(4);
 ```
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509174340988.png" style="width:300px;">
+<img src="/media/image-20190509174340988.png" style="width:300px;">
 
 ## 交互工具
 
@@ -349,11 +349,11 @@ console.log(circlePath.bounds.bottomLeft);
 // { x: 25.0, y: 75.0 } 
 ```
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509183551412.png" style="width:300px">
+<img src="/media/image-20190509183551412.png" style="width:300px">
 
 
 
-<img src="/Users/amaris_elm/Library/Application Support/typora-user-images/image-20190509183649306.png" style="width:300px;">
+<img src="/media/image-20190509183649306.png" style="width:300px;">
 
  #### 缩放项目
 
